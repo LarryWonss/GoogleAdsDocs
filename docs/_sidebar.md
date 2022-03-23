@@ -1,12 +1,15 @@
-- <big>**[`欢迎`](/README.md)**</big>
+- 欢迎
   
-- <big>**[`基础扫盲`](/BasicKnowledge/ContentDescription.md)**</big>
+  - [前言](/README.md)
   
+- 基础扫盲
+
+  - [内容概览](/BasicKnowledge/ContentDescription.md)
   - [1.1 数字广告简述](/BasicKnowledge/DigitalAdvertisingIntroduction.md)
   - [1.2 常见数字广告术语](/BasicKnowledge/AdvertisingTerms.md)
   - [1.3 搜索广告与信息流广告](/BasicKnowledge/SearchAds&NewsFeedAds.md)
   - [1.4 常见Google广告类型](/BasicKnowledge/GoogleAdsType.md)
-  
+
 - 基础知识
   - [2.1 Google广告账户开户]()
   - [2.2 ***投放前***：基础配置]()
@@ -32,7 +35,7 @@
   - [2.6 ***投放后***：数据报表与数据分析]()
     - [2.6.1 客制化数据报表]()
     - [2.6.2 数据分析]()
-  
+
 - 进阶学习
 
   - [3.1 理解Conversion Funnel｜营销漏斗]()
