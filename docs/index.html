@@ -32,8 +32,11 @@
         twitter: true,
         whatsapp: true,
         telegram: true,
+      },
+      timeUpdater: {
+        text: ">最后更新时间: {docsify-updated}",
+        formatUpdated: "{YYYY}/{MM}/{DD}",
       }
-
     }
   </script>
   <!-- Docsify v4 -->
@@ -42,5 +45,6 @@
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-updated@1/src/time-updater.min.js"></script>
 </body>
 </html>
