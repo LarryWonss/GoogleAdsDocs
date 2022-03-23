@@ -11,7 +11,7 @@
   - [1.4 常见Google广告类型](/BasicKnowledge/GoogleAdsType.md)
 
 - 基础知识
-  - [2.1 Google广告账户开户]()
+  - [2.1 Google广告账户开户](/BasicKnowledge2/GoogleAdsAccountSignUp.md)
   - [2.2 ***投放前***：基础配置]()
     - [2.2.1 常见广告相关权限操作](/BasicKnowledge2/CommonAuthorizationOperations.md)
     - [2.2.2 GoogleAds Tracking代码对接]()
