@@ -2,7 +2,7 @@
   
   - [前言](/README.md)
   
-- 基础扫盲
+- 数字广告
 
   - [内容概览](/BasicKnowledge/ContentDescription.md)
   - [1.1 数字广告简述](/BasicKnowledge/DigitalAdvertisingIntroduction.md)
