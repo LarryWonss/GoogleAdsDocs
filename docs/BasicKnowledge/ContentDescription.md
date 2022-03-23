@@ -12,25 +12,3 @@
 - `常见Google广告类型：`就Google目前的Paid Ads的广告产品，做简单分享，包括搜索广告、购物广告、展示广告、发现广告、视频广告等；
 
 
-
-<!-- ko-fi :id=<id> :color=<color> -->    
-
-Buy me a Coffee.
-
-<!-- ko-fi -->
-
-<hr>
-
-<!-- ko-fi :id=<id> :color=<color> -->    
-
-Tip me!
-
-<!-- ko-fi -->
-
-<hr>
-
-<!-- ko-fi :id=<id> :color=<color> -->    
-
-Donate!
-
-<!-- ko-fi -->
