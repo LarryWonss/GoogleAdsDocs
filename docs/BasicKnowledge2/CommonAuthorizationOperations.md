@@ -1,8 +1,6 @@
 # 常见的Google广告授权操作
 
-<img src="https://iswott.oss-cn-shenzhen.aliyuncs.com/blog/imgphotosProfiling-bro.png" alt="Profiling-bro" style="zoom:25%;" />
 
-###### 前言
 
 > 不知道各位在团队日常协作中，是否有有碰到以下问题：
 >
@@ -36,7 +34,7 @@
 
 
 
-
+<hr>
 
 ##### 二、GA账户的授权操作：
 
@@ -50,7 +48,7 @@
 
 > GA权限非常简单，授权和移除授权都非常清晰简单。
 
-
+<hr>
 
 ##### 三、GMC的授权操作
 
@@ -64,6 +62,8 @@
 
 
 
+##### <hr>
+
 ##### 四、GTM的授权操作
 
 > GTM使用一种Google开发的容器技术，方便我们安装对接各个流量渠道的广告监控代码，包括Google自家的Google Ads、 Google Analytics、 Google Remarketing等等，以及诸如Bing、Criteo、Twitter、LinkedIn等第三方媒介代码。而且都是比较傻瓜式的方式即可实现代码对接；
@@ -76,6 +76,8 @@
 
 4. See all>>>更严格的权限设置；![image-20210720132228186](https://iswott.oss-cn-shenzhen.aliyuncs.com/blog/imgphotosimage-20210720132228186.png)
 
+<hr>
+
 ##### 五、Google Ads与GMC关联（链接）
 
 > Google Ads为啥要和GMC关联？你要做购物广告，购物广告是基于Feed，Feed是托管在GMC中的，所以你必须链接Google Ads和GMC之后才能做谷歌的购物广告。这就是为啥要操作Google Ads和GMC。那如何关联呢？
@@ -86,7 +88,7 @@
 
 3. 在下面界面选择Link  **Google Ads后台需要用有对应GMC权限的个人账号，否则无法Link；一个Google Ads有且只能Link一个GMC** ；![image-20210720134746650](https://iswott.oss-cn-shenzhen.aliyuncs.com/blog/imgphotosimage-20210720134746650.png)
 
-
+<hr>
 
 ##### 六、Google Ads 与 GA关联（链接）
 
@@ -94,7 +96,7 @@
 
 ![image-20210720140304473](https://iswott.oss-cn-shenzhen.aliyuncs.com/blog/imgphotosimage-20210720140304473.png)
 
-
+<hr>
 
 ##### 七、Google GA数据回传到Google Ads中；
 
@@ -116,6 +118,7 @@
      - 电商类，非购买转化，推荐不用计入Conversions中，Conversions中只包含直接的购买转化；
      - 所有转化计算次数，推荐在Cookie有效期内只算一次，**但针对购买转化，统计每一次转化**；
 
-<img src="https://iswott.oss-cn-shenzhen.aliyuncs.com/blog/imgphotosOnline%20document-bro.png" alt="Online document-bro" style="zoom:25%;" />
 
+
+> [!note]
 > 关于Google电商广告投放过程中，日常接触到的涉及权限授权和管理的几个常见的操作，以上已全部图文简述完毕。
