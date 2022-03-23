@@ -1,8 +1,8 @@
-- :fa-duotone fa-folder:欢迎
+- 欢迎
   
   - [前言](/README.md)
   
-- :fa-duotone fa-folder:基础扫盲
+- 基础扫盲
 
   - [内容概览](/BasicKnowledge/ContentDescription.md)
   - [1.1 数字广告简述](/BasicKnowledge/DigitalAdvertisingIntroduction.md)
@@ -10,7 +10,7 @@
   - [1.3 搜索广告与信息流广告](/BasicKnowledge/SearchAds&NewsFeedAds.md)
   - [1.4 常见Google广告类型](/BasicKnowledge/GoogleAdsType.md)
 
-- :fa-duotone fa-folder:基础知识
+- 基础知识
   - [2.1 Google广告账户开户]()
   - [2.2 ***投放前***：基础配置]()
     - [2.2.1 常见广告相关权限操作](/BasicKnowledge2/CommonAuthorizationOperations.md)
@@ -36,7 +36,7 @@
     - [2.6.1 客制化数据报表]()
     - [2.6.2 数据分析]()
 
-- :fa-duotone fa-folder:进阶学习
+- 进阶学习
 
   - [3.1 理解Conversion Funnel｜营销漏斗]()
   - [3.2 购物广告优化—Feed优化]()
@@ -50,14 +50,14 @@
     - [3.4.2 GA3 vs GA4]()
   - [3.5 UTM设置](/Intermediate/UTMSettingsforMultiChannels.md)
 
-- :fa-duotone fa-folder:高阶学习
+- 高阶学习
 
   - [4.1 订单归因]()
   - [4.2 使用数据透视表进行数据分析]()
   - [4.3 Google MCC树状结构与其权限设置]()
   - [4.4 各大SaaS对接Bing UET代码](/Advenced/BingUETInstallation.md)
 
-- :fa-duotone fa-folder:资源对接
+- 资源对接
 
   - [广告服务商]()
 
