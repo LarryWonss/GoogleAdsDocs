@@ -4,7 +4,7 @@
   
 - 数字广告
 
-  - [内容概览](/BasicKnowledge/ContentDescription.md)
+  - [![](https://img.shields.io/badge/内容-概览-blue)](/BasicKnowledge/ContentDescription.md)
   - [1.1 数字广告简述](/BasicKnowledge/DigitalAdvertisingIntroduction.md)
   - [1.2 常见数字广告术语](/BasicKnowledge/AdvertisingTerms.md)
   - [1.3 搜索广告与信息流广告](/BasicKnowledge/SearchAds&NewsFeedAds.md)
@@ -12,17 +12,17 @@
 
 - 基础知识
   - [2.1 Google广告账户开户](/BasicKnowledge2/GoogleAdsAccountSignUp.md)
-  - [2.2 ***投放前***：基础配置]()
+  - 2.2 ***投放前***：基础配置
     - [2.2.1 常见广告相关权限操作](/BasicKnowledge2/CommonAuthorizationOperations.md)
-    - [2.2.2 GoogleAds Tracking代码对接]()
-    - [2.2.3 GoogleAds与Google Merchant Center关联]()
-    - [2.2.4 GoogleAds与Google Analytics关联]()
-  - [2.3 ***投放前***：投放策略制定]()
+    - [2.2.2 GoogleAds Tracking代码对接](/BasicKnowledge2/)
+    - [2.2.3 GoogleAds与Google Merchant Center关联](/BasicKnowledge2/LinkGoogleAdswithGMC.md)
+    - [2.2.4 GoogleAds与Google Analytics关联](/BasicKnowledge2/LinkGAwithGoogleAds.md)
+  - 2.3 ***投放前***：投放策略制定
     - [2.3.1 DTC品牌投放策略]()
     - [2.3.2 站群精铺投放策略]()
     - [2.3.3 B2B商业模型的投放策略]()
     - [2.3.4 平台卖家的投放策略]()
-  - [2.4 ***投放中***：广告类型剖析]()
+  - 2.4 ***投放中***：广告类型剖析
     - [2.4.1 搜索广告]()
     - [2.4.2 购物广告]()
     - [2.4.3 UAC广告]()

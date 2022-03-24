@@ -1,4 +1,4 @@
-# 常见的Google广告授权操作
+# 
 
 
 
@@ -8,9 +8,7 @@
 > - Google Analytics「后简称GA」授权给新加入业务线的同事；
 > - Google Merchant Center「后简称GMC」新增操作用户；
 > - Google Tag Manager「后简称GTM」授权给技术同事增加某个业务监控代码；
-> - Google广告账户与GMC关联设置
-> - Google广告账户与GA关联、GA转化数据导入Google广告账户；
->
+> 
 > 各位在运营Google电商实际业务过程中，肯定碰到以上一个或多个与权限相关的问题，那么本篇文章将这些常见权限问题整合到本篇文章中。
 
 
@@ -77,48 +75,5 @@
 4. See all>>>更严格的权限设置；![image-20210720132228186](https://iswott.oss-cn-shenzhen.aliyuncs.com/blog/imgphotosimage-20210720132228186.png)
 
 <hr>
-
-##### 五、Google Ads与GMC关联（链接）
-
-> Google Ads为啥要和GMC关联？你要做购物广告，购物广告是基于Feed，Feed是托管在GMC中的，所以你必须链接Google Ads和GMC之后才能做谷歌的购物广告。这就是为啥要操作Google Ads和GMC。那如何关联呢？
-
-1. 在Google Ads账户后台，`Tools & Settings>>>Linked Account；`![image-20210720134153486](https://iswott.oss-cn-shenzhen.aliyuncs.com/blog/imgphotosimage-20210720134153486.png)
-
-2. 在跳转的新界面，选择Google Merchant Center，点击`Details`；![image-20210720134405228](https://iswott.oss-cn-shenzhen.aliyuncs.com/blog/imgphotosimage-20210720134405228.png)
-
-3. 在下面界面选择Link  **Google Ads后台需要用有对应GMC权限的个人账号，否则无法Link；一个Google Ads有且只能Link一个GMC** ；![image-20210720134746650](https://iswott.oss-cn-shenzhen.aliyuncs.com/blog/imgphotosimage-20210720134746650.png)
-
-<hr>
-
-##### 六、Google Ads 与 GA关联（链接）
-
-> 和上面关联Google Ads和GMC类似，在Linked Accounts界面，选择Google Analytics(UA)，Link对应的Analytics Property即可；
-
-![image-20210720140304473](https://iswott.oss-cn-shenzhen.aliyuncs.com/blog/imgphotosimage-20210720140304473.png)
-
-<hr>
-
-##### 七、Google GA数据回传到Google Ads中；
-
-> 由于GA和Google Ads对于转化的跟踪逻辑其实是不同的，所以两边记录到的转化数据不一致是必然存在的，减少两边转化跟踪的统计差异，主要可以从以下几个方面入手：
->
-> - 两边均采用Last Click作为归因；
-> - 把GA统计到的通过广告带来的转化回传到Google Ads账户中
->
-> 那么第二个措施，如何把GA统计到的从Google广告过去的转化回传到Google Ads广告账户中呢？
-
-1. 在Google广告账户后台，Tools & Settings >>> Conversions；![image-20210720141123910](https://iswott.oss-cn-shenzhen.aliyuncs.com/blog/imgphotosimage-20210720141123910.png)
-
-2. 点击`➕`；![image-20210720141446237](https://iswott.oss-cn-shenzhen.aliyuncs.com/blog/imgphotosimage-20210720141446237.png)
-
-3. 选择Import >>> Google Analytics (UA)，并继续；![image-20210720141616065](https://iswott.oss-cn-shenzhen.aliyuncs.com/blog/imgphotosimage-20210720141616065.png)
-
-4. 在弹出的窗口中，选择你需要导入和跟踪的转化数据；
-   - 注意事项：
-     - 电商类，非购买转化，推荐不用计入Conversions中，Conversions中只包含直接的购买转化；
-     - 所有转化计算次数，推荐在Cookie有效期内只算一次，**但针对购买转化，统计每一次转化**；
-
-
-
 > [!note]
 > 关于Google电商广告投放过程中，日常接触到的涉及权限授权和管理的几个常见的操作，以上已全部图文简述完毕。
