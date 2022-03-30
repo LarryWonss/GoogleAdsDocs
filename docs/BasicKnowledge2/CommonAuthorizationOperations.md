@@ -68,12 +68,16 @@
 
 1. 在Home界面，点击你需要授权的容器；![image-20210720130504311](https://iswott.oss-cn-shenzhen.aliyuncs.com/blog/imgphotosimage-20210720130504311.png)
 
-2. User Management >>>Add Users；![image-20210720131836561](https://iswott.oss-cn-shenzhen.aliyuncs.com/blog/imgphotosimage-20210720131836561.png)
+2. `User Management >>>Add Users`；![image-20210720131836561](https://iswott.oss-cn-shenzhen.aliyuncs.com/blog/imgphotosimage-20210720131836561.png)
 
-3. 输入受邀用户邮箱，并选择权限设置，发送邀请；![image-20210720132125256](https://iswott.oss-cn-shenzhen.aliyuncs.com/blog/imgphotosimage-20210720132125256.png)
+3. 输入受邀用户邮箱，并选择`权限设置`，发送邀请；![image-20210720132125256](https://iswott.oss-cn-shenzhen.aliyuncs.com/blog/imgphotosimage-20210720132125256.png)
 
-4. See all>>>更严格的权限设置；![image-20210720132228186](https://iswott.oss-cn-shenzhen.aliyuncs.com/blog/imgphotosimage-20210720132228186.png)
+4. `Set all`>>>更严格的权限设置；![image-20210720132228186](https://iswott.oss-cn-shenzhen.aliyuncs.com/blog/imgphotosimage-20210720132228186.png)
 
 <hr>
+
+
+
 > [!note]
 > 关于Google电商广告投放过程中，日常接触到的涉及权限授权和管理的几个常见的操作，以上已全部图文简述完毕。
+

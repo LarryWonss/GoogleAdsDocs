@@ -14,7 +14,7 @@
   - [2.1 Google广告账户开户](/BasicKnowledge2/GoogleAdsAccountSignUp.md)
   - 2.2 ***投放前***：基础配置
     - [2.2.1 常见广告相关权限操作](/BasicKnowledge2/CommonAuthorizationOperations.md)
-    - [2.2.2 GoogleAds Tracking代码对接](/BasicKnowledge2/)
+    - [2.2.2 GoogleAds Tracking代码对接](/BasicKnowledge2/GoogleAdsTrackingSetup.md)
     - [2.2.3 GoogleAds与Google Merchant Center关联](/BasicKnowledge2/LinkGoogleAdswithGMC.md)
     - [2.2.4 GoogleAds与Google Analytics关联](/BasicKnowledge2/LinkGAwithGoogleAds.md)
   - 2.3 ***投放前***：投放策略制定
